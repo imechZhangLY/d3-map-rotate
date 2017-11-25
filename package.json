@@ -1,0 +1,20 @@
+{
+  "name": "d3-map-rotate",
+  "version": "1.0.0",
+  "description": "drag the map and rotate the map",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "d3",
+    "map",
+    "drag",
+    "rotate"
+  ],
+  "author": "zhangluyao",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^4.12.0"
+  }
+}
